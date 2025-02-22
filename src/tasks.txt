@@ -1,0 +1,64 @@
+Nivel Básico
+Suma de dos números ✔
+Escribe un programa que pida dos números al usuario y calcule su suma.
+
+Calculadora básica ✔
+Escribe un programa que pida dos números y una operación (suma, resta, multiplicación, división) y calcule el resultado.
+
+Par o impar✔
+Escribe un programa que determine si un número ingresado por el usuario es par o impar.
+
+Número mayor✔
+Escribe un programa que pida tres números al usuario y determine cuál es el mayor.
+
+Tabla de multiplicar✔
+Escribe un programa que muestre la tabla de multiplicar de un número ingresado por el usuario.
+
+Nivel Intermedio
+Contar vocales✔
+Escribe un programa que reciba una cadena de texto y cuente cuántas vocales (mayúsculas y minúsculas) contiene.
+
+Factorial de un número✔
+Escribe un programa que calcule el factorial de un número ingresado por el usuario (n! = n * (n-1) * (n-2) * ... * 1).
+
+Secuencia Fibonacci✔
+Escribe un programa que imprima los primeros n números de la secuencia de Fibonacci.
+
+Invertir una cadena✔
+Escribe un programa que reciba una cadena y la invierta. Por ejemplo, "hola" debería mostrar "aloh".
+
+Array de números impares✔
+Escribe un programa que almacene en un array los primeros n números impares.
+
+Nivel Avanzado
+Clase Rectángulo✔
+Crea una clase llamada Rectángulo que tenga dos atributos (base y altura). Luego, crea métodos para calcular el área y el perímetro del rectángulo. Prueba la clase en un programa principal.
+
+Conversión de temperatura✔
+Escribe un programa que convierta una temperatura en grados Celsius a Fahrenheit y viceversa. La conversión de Celsius a Fahrenheit es:
+F = C * 9/5 + 32
+
+Ordenar un array✔
+Escribe un programa que ordene un array de números enteros de menor a mayor usando el algoritmo de ordenamiento por burbuja (Bubble Sort).
+
+Buscar un número en un array✔
+Escribe un programa que busque un número dentro de un array y muestre en qué posición se encuentra, o un mensaje indicando que no está presente.
+
+Clase Cuenta Bancaria✔
+Crea una clase CuentaBancaria que tenga atributos como saldo y métodos como depositar, retirar y mostrarSaldo. Implementa un programa para interactuar con dicha clase.
+
+Nivel Experto✔
+Manejo de excepciones personalizadas
+Crea una clase de excepción personalizada llamada SaldoInsuficienteException que sea lanzada cuando un usuario intente retirar más dinero del que tiene en su cuenta. Implementa un programa que gestione esta excepción.
+
+Colecciones (List, Set, Map)✔
+Escribe un programa que utilice una lista (ArrayList), un conjunto (HashSet) y un mapa (HashMap) para almacenar una serie de valores y luego realice operaciones sobre ellos (añadir, buscar, eliminar).
+
+Lectura y escritura de archivos✔
+Crea un programa que lea el contenido de un archivo de texto y lo imprima en consola. Luego, agrega un método que permita escribir texto en el archivo.
+
+Interfaces y clases abstractas✔
+Crea una interfaz Vehiculo que tenga métodos como arrancar y detener. Luego, crea dos clases que implementen esta interfaz: Coche y Moto. Ambos deben implementar los métodos definidos en la interfaz.
+
+Hilos (Threads)
+Escribe un programa que inicie dos hilos: uno que imprima números del 1 al 10, y otro que imprima letras de la A a la J, de forma concurrente.
